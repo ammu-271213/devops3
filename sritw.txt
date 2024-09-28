@@ -1,6 +1,8 @@
+qwertyuioplkjhgfdsszxcvbnm
 DevOps is a collection of two words, ” Development ” and ” Operations ,” representing a cultural approach that emphasizes collaboration between development and operations teams to streamline the entire software delivery lifecycle.
 
 This DevOps tutorial is designed to help learn DevOps basics and advanced concepts, including Git, Ansible, Docker, Puppet, Jenkins, a range of DevOps tools, Azure DevOps, Chef, Nagios, and Kubernetes.
 
 For those looking to further enhance their expertise and credentials in cloud technologies, particularly with AWS, our AWS Solutions Architect Certification Training Program offers live, expert-led sessions. This program is designed to complement your DevOps skills, enabling you to design robust and scalable systems on AWS and prepare effectively for certification exams.
+
 
